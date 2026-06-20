@@ -20,7 +20,7 @@
     // e.g. "en", "fr", "es"... for a full list see https://www.w3schools.com/tags/ref_language_codes.asp
     // can use commas and space to add multiple i.e. "en, fr"
     // appears internally on pages + RSS, which helps users & search engines find your page
-    "siteLang": "en",
+    "siteLang": "ja",
 
     // a link where people can reach you - your personal site, your social media, etc...
     // appears on the footer, but you can leave it blank if you don't want it to appear
